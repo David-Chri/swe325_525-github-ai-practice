@@ -27,3 +27,9 @@ Useful suggestion: None of them had much use to me because of simple word use.
 Decision: rejected
 Reason: The commit suggestions were to simple all things considered.
 Related GitHub URL: None, this is just for the whole git.
+
+The knowledge of how History works is the best one of the bunch.
+I accepted the History one which helped me figure out where that could be for future use.
+I revised the README because it had some useful info but didn't give me what I needed. I rejected the Commit suggestions because it didn't give me anything useful.
+I verified the History information to make certain that was true.
+I don't think I would honestly change anything. It all worked well.
