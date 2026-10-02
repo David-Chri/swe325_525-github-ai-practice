@@ -1,5 +1,5 @@
-The issues are listed in the issues section which is what is necessary for the Git.
-The two branches are Main and github-ai-workflow
-There are minimal commits currently but more will be made.
-No pull request has been made, I'm also realizing I was confused by the prompt but I need to finish this part fast before my next class.
-The default branch is the main.
+Issues are explanations of problems within the GitHub that people can work to fix.
+Branches are separate parts of the Git that people can use to work on separate parts of the Git without messing with the Main branch.
+Commits are explanations made of changes made to the git.
+Pull requests are merge requests made to bring together code changes made.
+The default branch is the branch that will automatically be selected when checking the GitHub. Usually the main.
